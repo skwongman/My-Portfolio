@@ -43,7 +43,7 @@
 
   <p style="width: 800px; margin: auto;" align="center"><img src="/screenshots/screenshot_3.gif" alt="preview"></p>
 
-  - **Theme:** It is my **`first`** full stack individual side project during my study in the Web Development Bootcamp. It is an e-commerce online platform which allows customers to search, compare, and make one-day attraction booking in Taipei City of Taiwan.
+  - **Theme:** It is my **`first`** full stack individual side project during my study in the Web Development Bootcamp without any guidance. It is an e-commerce online platform which allows customers to search, compare, and make one-day attraction booking in Taipei City of Taiwan.
 
   - **GitHub:** https://github.com/skwongman/taipei-day-trip
 
@@ -65,7 +65,7 @@
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_5.gif" alt="preview"></p>
 
-  - **Theme:** It is my **`second`** full stack individual side project during my study in the Web Development Bootcamp. It is an online platform which allows users to browse the latest information on Japanese dramas. Members can also 1) create & update drama information, 2) post & reply in the discussion forum, and 3) chat instantly with other members.
+  - **Theme:** It is my **`second`** full stack individual side project during my study in the Web Development Bootcamp without any guidance. It is an online platform which allows users to browse the latest information on Japanese dramas. Members can also 1) create & update drama information, 2) post & reply in the discussion forum, and 3) chat instantly with other members.
 
   - **GitHub:** https://github.com/skwongman/JProgrammer
 
@@ -115,7 +115,7 @@
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_10.png" alt="preview"></p>
 
-  - **Theme:** TypeScript and Object-oriented Programming were particularly adopted in this project. It is a simple counter to calculate the total amounts spent for all shopping cart items added. Also, it allows users to copy the pre-definied texts to the clipboard (viz. ctrl + c) by clicking nearby buttons. Webpack was also used for codes bundling and website deployment.
+  - **Theme:** TypeScript and Object-oriented Programming were particularly adopted in this project. It is a simple counter to calculate the total amounts spent for all shopping cart items added. Also, it allows users to copy the pre-definied texts to the clipboard (viz. ctrl + c) by clicking nearby buttons. Webpack was also used for codes bundling to achieve an easy way for website deployment.
 
   - **Website URL:** https://skwongman.github.io/Shopping-Cart-Website
 
@@ -133,7 +133,7 @@
 
   - **Website URL:** https://skwongman.github.io/team-project
 
-  - **Stacks Used:** **`HTML`** **`CSS`** **`JavaScript`** **`Vue.js (CDN)`** **`JQuery`** **`Responsive Web Design`** **`Taiwan Gov API`** **`GitHub`** **`Git`** **`Pull Request`** **`Fork Repository`** <br><br>
+  - **Stacks Used:** **`HTML`** **`CSS`** **`JavaScript`** **`Vue.js (CDN)`** **`jQuery`** **`Responsive Web Design`** **`Taiwan Gov API`** **`GitHub`** **`Git`** **`Pull Request`** **`Fork Repository`** <br><br>
 
 ## Contact:
 - **Linkedln:** [Mr. KM SIU](https://www.linkedin.com/in/skwongman/)
