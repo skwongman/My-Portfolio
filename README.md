@@ -47,7 +47,7 @@
 
   - **GitHub:** https://github.com/skwongman/taipei-day-trip
 
-  - **Website URL:** http://taipeidaytrip.jprogrammer.site:8000
+  - **Website URL:** http://taipeidaytrip.myvnc.com:8000
 
   - **Stacks Used:** **`HTML`** **`CSS`** **`Vanilla JavaScript`** **`Responsive Web Design`** **`Python`** **`Flask`** **`MySQL`** **`Bcrypt`** **`JWT`** **`TapPay Payment System`** **`MVC Pattern`** **`AWS (EC2 & S3)`** **`GitHub`** **`Git`** **`Google Analytics`** <br><br>
 
