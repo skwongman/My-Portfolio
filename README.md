@@ -71,7 +71,7 @@
 
   - **Website URL:** https://jprogrammer.site
 
-  - **Stacks Used:** **`HTML`** **`CSS`** **`JavaScript`** **`jQuery`** **`Bootstrap`** **`Chart.js`** **`Responsive Web Design`** **`Node.js`** **`Express.js`** **`MongoDB`** **`WebSocket`** **`Docker`** **`Nginx`** **`Redis`** **`Python (Web Crawling)`** **`Bcrypt`** **`JWT`** **`MVC Pattern`** **`AWS (EC2, S3, CloudFront)`** **`GitHub`** **`Git`** **`Google Analytics`** <br><br>
+  - **Stacks Used:** **`HTML`** **`CSS`** **`JavaScript`** **`jQuery`** **`Bootstrap`** **`Chart.js`** **`View Engine (EJS)`** **`Responsive Web Design`** **`Node.js`** **`Express.js`** **`MongoDB`** **`WebSocket`** **`Docker`** **`Nginx`** **`Redis`** **`Python (Web Crawling)`** **`Bcrypt`** **`JWT`** **`MVC Pattern`** **`AWS (EC2, S3, CloudFront)`** **`GitHub`** **`Git`** **`Google Analytics`** <br><br>
 
 - ### **(6) News Website (*May to Jun 2023*)**
 
