@@ -128,7 +128,7 @@
 
   - **Theme:** Instead of Client Side Rendering, this website was built with Node.js and Express.js with Server Side Rendering by using EJS. Also, Python was used for web crawling for Japanese drama data on a daily basis. Once the web crawling is completed, it will send a notification to the Slack chat bot right away.
 
-  - **Website URL:** http://dramaweb.jprogrammer.site:5001/drama
+  - **Website URL:** http://dramaweb.jprogrammer.site:5001
 
   - **Stacks Used:** **`HTML`** **`CSS`** **`JavaScript`** **`EJS`** **`View / Template Enginee`** **`Server Side Rendering`** **`Node.js`** **`Express.js`** **`MongoDB`** **`Mongoose`** **`MVC Pattern`** **`Python (Web Crawling)`** **`Slack Chat Bot`** **`Linux Cron Jobs`** **`Docker`** **`CICD (Jenkins)`** <br><br>
 
