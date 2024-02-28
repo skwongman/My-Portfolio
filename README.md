@@ -48,7 +48,7 @@
 
   - **GitHub:** https://github.com/skwongman/taipei-day-trip
 
-  - **Website URL:** http://taipeidaytrip.myvnc.com:8000
+  - **Website URL:** https://taipeidaytrip.jprogrammer.site
 
   - **Stacks Used:** **`HTML`** **`CSS`** **`Vanilla JavaScript`** **`Responsive Web Design`** **`Python`** **`Flask`** **`MySQL`** **`Bcrypt`** **`JWT`** **`TapPay Payment System`** **`MVC Pattern`** **`AWS (EC2 & S3)`** **`GitHub`** **`Git`** **`Google Analytics`** <br><br>
 
@@ -126,7 +126,7 @@
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_12.png" alt="preview"></p>
 
-  - **Theme:** Instead of Client Side Rendering, this website was built with Node.js and Express.js with Server Side Rendering by using EJS. Also, Python was used for web crawling for Japanese drama data on a daily basis. Once the web crawling is completed, it will send a notification to the Slack chat bot right away.
+  - **Theme:** This website provides the latest Japanese drama information. Instead of Client Side Rendering, this website was built with Node.js and Express.js with Server Side Rendering by using EJS. Also, Python was used for web crawling for Japanese drama data on a daily basis. Once the web crawling is completed, it will send a notification to the Slack chat bot right away.
 
   - **Website URL:** http://dramaweb.jprogrammer.site:5001
 
