@@ -14,6 +14,7 @@
   - [(9) Message Board Website (*Sept to Dec 2023*)](#9-message-board-website-sept-to-dec-2023)
   - [(10) Shopping Cart Calculator Website (*Jan 2024*)](#10-shopping-cart-calculator-website-jan-2024)
   - [(11) Drama Website (*Feb 2024*)](#11-drama-website-feb-2024)
+  - [(12) Job Application Histories System (*Mar 2024*)](#12-job-application-histories-system-mar-2024)
 
 - [Group Side Project](#group-side-project-1)
   - [(1) Weather Forecast Website (*Dec 2022*)](#1-weather-forecast-website-dec-2022)
@@ -131,6 +132,16 @@
   - **Website URL:** http://dramaweb.jprogrammer.site:5001
 
   - **Stacks Used:** **`HTML`** **`CSS`** **`JavaScript`** **`EJS`** **`View / Template Enginee`** **`Server Side Rendering`** **`Node.js`** **`Express.js`** **`MongoDB`** **`Mongoose`** **`MVC Pattern`** **`Python (Web Crawling)`** **`Slack Chat Bot`** **`Linux Cron Jobs`** **`Docker`** **`CICD (Jenkins)`** <br><br>
+
+- ### **(12) Job Application Histories System (*Mar 2024*)**
+
+  <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_13.png" alt="preview"></p>
+
+  - **Theme:** This system allows users to quickly search through their past job application histories. Users can search for all jobs applied by using the company name in the top search bar. Each table header has a sorting function, making it easy for users to get a quick overview. Also, there is a show/hide button that provides flexibility for users to display or hide specific columns of the table. Frontend primarily uses React table with Shadcn, while the backend relies on Nest.js with GraphQL. Furthermore, Node.js is used for the Extract, Transform, and Load (ETL) process, which loads job data into the MySQL database on a daily basis.
+
+  - **Website URL:** http://job.jprogrammer.site:3003
+
+  - **Stacks Used:** **`React.js`** **`Next.js`** **`Tailwind CSS`** **`React Table`** **`Shadcn`** **`Skeleton Loading Effect`** **`GraphQL`** **`Apollo Client`** **`Client Side Rendering`** **`Node.js`** **`Express.js`** **`Nest.js`** **`TypeScript`** **`Sequelize`** **`Apollo Server`** **`Apollo Sandbox`** **`Schema First`** **`TypeDefs`** **`Resolver`** **`MySQL`** **`Docker`** **`CICD (Jenkins)`** <br><br>
 
 ## Group Side Project:
 
