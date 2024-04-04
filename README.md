@@ -15,6 +15,7 @@
   - [(10) Shopping Cart Calculator Website (*Jan 2024*)](#10-shopping-cart-calculator-website-jan-2024)
   - [(11) Drama Website (*Feb 2024*)](#11-drama-website-feb-2024)
   - [(12) Job Application Histories System (*Mar 2024*)](#12-job-application-histories-system-mar-2024)
+  - [(13) My Portfolio Webite (*Apr 2024*)](#13-my-portfolio-website-apr-2024)
 
 - [Group Side Project](#group-side-project-1)
   - [(1) Weather Forecast Website (*Dec 2022*)](#1-weather-forecast-website-dec-2022)
@@ -142,6 +143,16 @@
   - **Website URL:** http://job.jprogrammer.site:3003
 
   - **Stacks Used:** **`React.js`** **`Next.js`** **`Tailwind CSS`** **`React Table`** **`Shadcn`** **`Skeleton Loading Effect`** **`GraphQL`** **`Apollo Client`** **`Client Side Rendering`** **`Node.js`** **`Express.js`** **`Nest.js`** **`TypeScript`** **`Sequelize`** **`Apollo Server`** **`Apollo Sandbox`** **`Schema First`** **`TypeDefs`** **`Resolver`** **`MySQL`** **`Docker`** **`CICD (Jenkins)`** <br><br>
+
+  - ### **(13) My Portfolio Website (*Apr 2024*)**
+
+  <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_14.png" alt="preview"></p>
+
+  - **Theme:** This website aims to summarize all of my side projects in one go. It allows the web owner to easily create their portfolio. They can view, create, edit, and delete each portfolio with ease. The frontend of the website primarily uses Vue.js with the Nuxt.js framework. In the backend, it primarily uses C# and ASP.NET Core Web API to create API routes.
+
+  - **Website URL:** https://project.jprogrammer.site
+
+  - **Stacks Used:** **`Nuxt.js`** **`Vue.js`** **`Composition API`** **`Options API`** **`Tailwind CSS`** **`Routes`** **`Routing`** **`Client Side Rendering`** **`Server Side Rendering`** **`C#`** **`ASP.NET Core Web API`** **`.Net 8.0`** **`Entitiy Framework`** **`LINQ`** **`ORM`** **`RESTful API`** **`Swagger API`** **`MVC Pattern (Models, DTOs, Mappers, Controllers, Interfaces, Repositories)`** **`SQL Server`** **`Code First Database Sync`** **`Docker`** **`Portainer`** **`CICD (Jenkins)`** **`Git`** **`GitHub`** **`Nginx`** <br><br>
 
 ## Group Side Project:
 
