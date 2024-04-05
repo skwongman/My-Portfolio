@@ -152,7 +152,7 @@
 
   - **Website URL:** https://project.jprogrammer.site
 
-  - **Stacks Used:** **`Nuxt.js`** **`Vue.js`** **`Composition API`** **`Options API`** **`Tailwind CSS`** **`Routes`** **`Routing`** **`Client Side Rendering`** **`Server Side Rendering`** **`C#`** **`ASP.NET Core Web API`** **`.Net 8.0`** **`Entitiy Framework`** **`LINQ`** **`ORM`** **`RESTful API`** **`Swagger API`** **`MVC Pattern (Models, DTOs, Mappers, Controllers, Interfaces, Repositories)`** **`SQL Server`** **`Code First Database Sync`** **`Docker`** **`Portainer`** **`CICD (Jenkins)`** **`Git`** **`GitHub`** **`Nginx`** <br><br>
+  - **Stacks Used:** **`Nuxt.js`** **`Vue.js`** **`Composition API`** **`Options API`** **`Pinia (Global State Management)`** **`Tailwind CSS`** **`Responsive Web Design`** **`Routes`** **`Routing`** **`Client Side Rendering`** **`Server Side Rendering`** **`C#`** **`ASP.NET Core Web API`** **`.Net 8.0`** **`Entitiy Framework`** **`LINQ`** **`ORM`** **`RESTful API`** **`Swagger API`** **`MVC Pattern (Models, DTOs, Mappers, Controllers, Interfaces, Repositories)`** **`SQL Server`** **`Code First Database Sync`** **`Docker`** **`Portainer`** **`CICD (Jenkins)`** **`Git`** **`GitHub`** **`Nginx`** <br><br>
 
 ## Group Side Project:
 
