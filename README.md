@@ -144,7 +144,7 @@
 
   - **Stacks Used:** **`React.js`** **`Next.js`** **`Tailwind CSS`** **`React Table`** **`Shadcn`** **`Skeleton Loading Effect`** **`GraphQL`** **`Apollo Client`** **`Client Side Rendering`** **`Node.js`** **`Express.js`** **`Nest.js`** **`TypeScript`** **`Sequelize`** **`Apollo Server`** **`Apollo Sandbox`** **`Schema First`** **`TypeDefs`** **`Resolver`** **`MySQL`** **`Docker`** **`CICD (Jenkins)`** <br><br>
 
-  - ### **(13) My Portfolio Website (*Apr 2024*)**
+- ### **(13) My Portfolio Website (*Apr 2024*)**
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_14.png" alt="preview"></p>
 
