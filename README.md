@@ -1,5 +1,7 @@
 <h1 align="center">My Portfolio</h1>
 
+<a><img align="center" src="https://github-readme-stats-mu-eight-63.vercel.app/api/top-langs/?username=skwongman&theme=default&line_height=40&hide=css&layout=compact"/></a>
+
 ## Table of Contents
 
 - [Individual Side Projects](#individual-side-projects)
