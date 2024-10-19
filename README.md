@@ -104,7 +104,7 @@
 
 - ### **(9) JProgrammer Website (*Jan to Mar 2023*)**
 
-  <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_5.gif" alt="preview"></p>
+  <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_5.png" alt="preview"></p>
 
   - **Live Demo:** https://jprogrammer.site/
 
@@ -126,7 +126,7 @@
 
 - ### **(11) Taipei-Day-Trip Website (*Nov to Dec 2022*)**
 
-  <p style="width: 800px; margin: auto;" align="center"><img src="/screenshots/screenshot_3.gif" alt="preview"></p>
+  <p style="width: 800px; margin: auto;" align="center"><img src="/screenshots/screenshot_3.png" alt="preview"></p>
 
   - **Live Demo:** https://taipeidaytrip.jprogrammer.site/
 
@@ -158,7 +158,7 @@
 
 - ### **(1) Weather Forecast Website (*Dec 2022*)**
 
-  <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_11.gif" alt="preview"></p>
+  <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_11.png" alt="preview"></p>
 
   - **Live Demo:** https://skwongman.github.io/team-project/
 
