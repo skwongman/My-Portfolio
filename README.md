@@ -28,7 +28,7 @@
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_14.png" alt="preview"></p>
   
-  - **Live Demo:** https://project.jprogrammer.site/
+  - **Live Demo:** https://project.jprogrammer.online/
 
   - **Theme:** This website aims to summarize all of my side projects in one go. It allows the web owner to easily create their portfolio. They can view, create, edit, and delete each portfolio with ease (only logged-in user can credit, edit and delete portfolio). Also, Nuxt Router Middleware was used to control the permission to each page. The frontend of the website primarily uses Vue.js with the Nuxt.js framework. In the backend, it primarily uses C# and ASP.NET Core Web API to create API routes.
 
@@ -38,7 +38,7 @@
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_13.png" alt="preview"></p>
   
-  - **Live Demo:** https://job.jprogrammer.site/
+  - **Live Demo:** https://job.jprogrammer.online/
 
   - **Theme:** This system allows users to quickly search through their past job application histories. Users can search for all jobs applied by using the company name in the top search bar. Each table header has a sorting function, making it easy for users to get a quick overview. Also, there is a show/hide button that provides flexibility for users to display or hide specific columns of the table. Frontend primarily uses React table with Shadcn, while the backend relies on Nest.js with GraphQL. Furthermore, a Node.js program is used for the Extract, Transform, and Load (ETL) process, which loads job data into the MySQL database on a daily basis.
 
@@ -48,7 +48,7 @@
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_12.png" alt="preview"></p>
   
-  - **Live Demo:** https://dramaweb.jprogrammer.site/
+  - **Live Demo:** https://dramaweb.jprogrammer.online/
 
   - **Theme:** This website provides the latest Japanese drama information. Instead of Client Side Rendering, this website was built with Node.js and Express.js with Server Side Rendering by using EJS. Also, a Python program was used for web crawling for Japanese drama data on a daily basis. Once the web crawling is completed, it will send a notification to the Slack chat bot right away.
 
@@ -68,7 +68,7 @@
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_9.png" alt="preview"></p>
 
-  - **Live Demo:** https://message.jprogrammer.site/
+  - **Live Demo:** https://message.jprogrammer.online/
 
   - **Theme:** It was built with the modern frontend and backend frameworks, which are Next.js (React.js) and Nest.js (Node.js and Express.js with TypeScript). It is a message board which allows users to post, like, unlike messages, and upload images onto the website. Also, there is a member login system, only registered members can read and post message here.
 
@@ -86,7 +86,7 @@
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_7.png" alt="preview"></p>
 
-  - **Live Demo:** https://listify.jprogrammer.site/
+  - **Live Demo:** https://listify.jprogrammer.online/
 
   - **Theme:** It is a to-do list website. Users can check, add, update, and delete the to-do items easily. Also, it is connected to an instant chat bot called "Slack", so that users will be reminded right on the due date of each to-do task.
 
@@ -96,7 +96,7 @@
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_6.png" alt="preview"></p>
 
-  - **Live Demo:** https://news.jprogrammer.site/
+  - **Live Demo:** https://news.jprogrammer.online/
 
   - **Theme:** It is a MERN (MongoDB, Express.js, React.js, Node.js) stack project. It allows users to browser the latest Hong Kong news information.
 
@@ -106,7 +106,7 @@
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_5.png" alt="preview"></p>
 
-  - **Live Demo:** https://jprogrammer.site/
+  - **Live Demo:** https://jprogrammer.online/
 
   - **GitHub:** https://github.com/skwongman/JProgrammer/
 
@@ -118,7 +118,7 @@
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_4.png" alt="preview"></p>
 
-  - **Live Demo:** https://blog.jprogrammer.site/
+  - **Live Demo:** https://blog.jprogrammer.online/
 
   - **Theme:** It is one of my assignments during my study in the Web Development Bootcamp. It allows users to post messages and upload photos onto the blog easily.
 
@@ -128,7 +128,7 @@
 
   <p style="width: 800px; margin: auto;" align="center"><img src="/screenshots/screenshot_3.png" alt="preview"></p>
 
-  - **Live Demo:** https://taipeidaytrip.jprogrammer.site/
+  - **Live Demo:** https://taipeidaytrip.jprogrammer.online/
 
   - **GitHub:** https://github.com/skwongman/taipei-day-trip/
 
