@@ -3,19 +3,20 @@
 ## Table of Contents
 
 - [Individual Side Projects](#individual-side-projects)
-  - [(1) My Portfolio Webite (*Apr 2024*)](#1-my-portfolio-website-apr-2024)
-  - [(2) Job Application Histories System (*Mar 2024*)](#2-job-application-histories-system-mar-2024)
-  - [(3) Drama Website (*Feb 2024*)](#3-drama-website-feb-2024)
-  - [(4) Shopping Cart Calculator Website (*Jan 2024*)](#4-shopping-cart-calculator-website-jan-2024)
-  - [(5) Message Board Website (*Sept to Dec 2023*)](#5-message-board-website-sept-to-dec-2023)
-  - [(6) Listify Mobile App (*Sept 2023*)](#6-listify-mobile-app-sept-2023)
-  - [(7) Listify Website (*Jul to Aug 2023*)](#7-listify-website-jul-to-aug-2023)
-  - [(8) News Website (*May to Jun 2023*)](#8-news-website-may-to-jun-2023)
-  - [(9) JProgrammer Website (*Jan to Mar 2023*)](#9-jprogrammer-website-jan-to-mar-2023)
-  - [(10) Blog Website (*Jan 2023*)](#10-blog-website-jan-2023)
-  - [(11) Taipei-Day-Trip Website (*Nov to Dec 2022*)](#11-taipei-day-trip-website-nov-to-dec-2022)
-  - [(12) To-Do-List Website (*Aug 2022*)](#12-to-do-list-website-aug-2022)
-  - [(13) Python Telegram Bot (*Sept 2018*)](#13-python-telegram-bot-sept-2018)
+  - [(1) Listify Mobile App (*Feb to Mar 2025*)](#1-listify-mobile-app-feb-to-march-2025)
+  - [(2) My Portfolio Webite (*Apr 2024*)](#1-my-portfolio-website-apr-2024)
+  - [(3) Job Application Histories System (*Mar 2024*)](#2-job-application-histories-system-mar-2024)
+  - [(4) Drama Website (*Feb 2024*)](#3-drama-website-feb-2024)
+  - [(5) Shopping Cart Calculator Website (*Jan 2024*)](#4-shopping-cart-calculator-website-jan-2024)
+  - [(6) Message Board Website (*Sept to Dec 2023*)](#5-message-board-website-sept-to-dec-2023)
+  - [(7) Listify Mobile App (*Sept 2023*)](#6-listify-mobile-app-sept-2023)
+  - [(8) Listify Website (*Jul to Aug 2023*)](#7-listify-website-jul-to-aug-2023)
+  - [(9) News Website (*May to Jun 2023*)](#8-news-website-may-to-jun-2023)
+  - [(10) JProgrammer Website (*Jan to Mar 2023*)](#9-jprogrammer-website-jan-to-mar-2023)
+  - [(11) Blog Website (*Jan 2023*)](#10-blog-website-jan-2023)
+  - [(12) Taipei-Day-Trip Website (*Nov to Dec 2022*)](#11-taipei-day-trip-website-nov-to-dec-2022)
+  - [(13) To-Do-List Website (*Aug 2022*)](#12-to-do-list-website-aug-2022)
+  - [(14) Python Telegram Bot (*Sept 2018*)](#13-python-telegram-bot-sept-2018)
 
 - [Group Side Project](#group-side-project-1)
   - [(1) Weather Forecast Website (*Dec 2022*)](#1-weather-forecast-website-dec-2022)
@@ -24,7 +25,15 @@
 
 ## Individual Side Projects:
 
-- ### **(1) My Portfolio Website (*Apr 2024*)**
+- ### **(1) Listify Mobile App (*Feb to March 2025*)**
+
+  <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_8.png" alt="preview"></p>
+
+  - **Theme:** A mobile app version of Listify website (Jul to Aug 2023), it is a to-do list app which can be launched in the mobile. Since it is connected to the same backend API of Listify Website, users can use either website or mobile app up to their own preference.
+
+  - **Stacks Used:** React Native, Java, Spring Boot, Maven, Hibernate, Lombok, JPA, MySQL, ORM, RESTful API, MVC Pattern (Models, Dtos, Mappers, Controllers, Repositories, Services, Implementations, Dependency Injection, Views), Global Exception Handler, Postman, Docker, Portainer, CICD (Jenkins), Git, GitHub, Nginx, Slack Chat Bot, Linux Cron Jobs <br><br>
+
+- ### **(2) My Portfolio Website (*Apr 2024*)**
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_14.png" alt="preview"></p>
   
@@ -34,7 +43,7 @@
 
   - **Stacks Used:** Nuxt.js, Vue.js, Composition API, Options API, Pinia (Global State Management), Nuxt Router Middleware (user authentication and permission), Tailwind CSS, Responsive Web Design, Routes, Routing, Client Side Rendering, Server Side Rendering, C#, ASP.NET Core Web API, .NET 8.0, .NET Entitiy Framework, LINQ, ORM, RESTful API, Swagger API, MVC Pattern (Models, DTOs, Mappers, Controllers, Interfaces, Repositories, Dependency Injection, Views), SQL Server, Code First Approach, Docker, Portainer, CICD (Jenkins), Git, GitHub, Nginx <br><br>
 
-- ### **(2) Job Application Histories System (*Mar 2024*)**
+- ### **(3) Job Application Histories System (*Mar 2024*)**
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_13.png" alt="preview"></p>
   
@@ -44,7 +53,7 @@
 
   - **Stacks Used:** React.js, Next.js, Tailwind CSS, React Table, Shadcn, Skeleton Loading Effect, GraphQL, Apollo Client, Client Side Rendering, Node.js, Express.js, Nest.js, TypeScript, Sequelize, Apollo Server, Apollo Sandbox, Schema First, TypeDefs, Resolver, MySQL, Docker, CICD (Jenkins) <br><br>
 
-- ### **(3) Drama Website (*Feb 2024*)**
+- ### **(4) Drama Website (*Feb 2024*)**
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_12.png" alt="preview"></p>
   
@@ -54,7 +63,7 @@
 
   - **Stacks Used:** HTML, CSS, JavaScript, EJS, View / Template Enginee, Server Side Rendering, Node.js, Express.js, MongoDB, Mongoose, MVC Pattern, Python (Web Crawling), Slack Chat Bot, Linux Cron Jobs, Docker, CICD (Jenkins) <br><br>
 
-- ### **(4) Shopping Cart Calculator Website (*Jan 2024*)**
+- ### **(5) Shopping Cart Calculator Website (*Jan 2024*)**
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_10.png" alt="preview"></p>
 
@@ -64,7 +73,7 @@
 
   - **Stacks Used:** HTML, CSS, TypeScript, Object-oriented Programming, Local Storage, Webpack <br><br>
 
-- ### **(5) Message Board Website (*Sept to Dec 2023*)**
+- ### **(6) Message Board Website (*Sept to Dec 2023*)**
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_9.png" alt="preview"></p>
 
@@ -74,7 +83,7 @@
 
   - **Stacks Used:** React.js, Next.js, TypeScript, Tailwind CSS, React Hooks (useState, useEffect, useContext), Redux, Props, Custom Hooks, Uploadthing (image uploader), Responsive Web Design, Prettier, EsLint, Node.js, Express.js, Nest.js, Sequelize, Pipes, Guards, RESTful API, MySQL, Swagger API, Bcrypt, JWT, MVC Pattern, Docker, CICD (Jenkins) <br><br>
 
-- ### **(6) Listify Mobile App (*Sept 2023*)**
+- ### **(7) Listify Mobile App (*Sept 2023*)**
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_8.png" alt="preview"></p>
 
@@ -82,7 +91,7 @@
 
   - **Stacks Used:** Flutter, Dart, Widget, Java, Spring Boot, Maven, Hibernate, Lombok, JPA, MySQL, ORM, RESTful API, MVC Pattern (Models, Dtos, Mappers, Controllers, Repositories, Services, Implementations, Dependency Injection, Views), Global Exception Handler, Postman, Docker, Portainer, CICD (Jenkins), Git, GitHub, Nginx, Slack Chat Bot, Linux Cron Jobs <br><br>
 
-- ### **(7) Listify Website (*Jul to Aug 2023*)**
+- ### **(8) Listify Website (*Jul to Aug 2023*)**
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_7.png" alt="preview"></p>
 
@@ -92,7 +101,7 @@
 
   - **Stacks Used:** Vue.js, Vuetify, Options API, Composition API, Composable Custom Hooks, Routes, Routing, Responsive Web Design, Java, Spring Boot, Maven, Hibernate, Lombok, JPA, MySQL, ORM, RESTful API, MVC Pattern (Models, Dtos, Mappers, Controllers, Repositories, Services, Implementations, Dependency Injection, Views), Global Exception Handler, Postman, Docker, Portainer, CICD (Jenkins), Git, GitHub, Nginx, Slack Chat Bot, Linux Cron Jobs <br><br>
 
-- ### **(8) News Website (*May to Jun 2023*)**
+- ### **(9) News Website (*May to Jun 2023*)**
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_6.png" alt="preview"></p>
 
@@ -102,7 +111,7 @@
 
   - **Stacks Used:** React.js, Create-React-App, React Hooks (useState, useEffect, useRef), Routes, Routing, Responsive Web Design, Python (Web Crawling), Node.js, Express.js, MongoDB, Mongoose, Docker, CICD (Jenkins) <br><br>
 
-- ### **(9) JProgrammer Website (*Jan to Mar 2023*)**
+- ### **(10) JProgrammer Website (*Jan to Mar 2023*)**
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_5.png" alt="preview"></p>
 
@@ -114,7 +123,7 @@
 
   - **Stacks Used:** HTML, CSS, JavaScript, jQuery, Bootstrap, Chart.js, View Engine (EJS), Responsive Web Design, Node.js, Express.js, MongoDB, WebSocket, Docker, Nginx, Redis, Python (Web Crawling), Bcrypt, JWT, MVC Pattern, AWS (EC2, S3, CloudFront), GitHub, Git, Google Analytics <br><br>
 
-- ### **(10) Blog Website (*Jan 2023*)**
+- ### **(11) Blog Website (*Jan 2023*)**
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_4.png" alt="preview"></p>
 
@@ -124,7 +133,7 @@
 
   - **Stacks Used:** HTML, CSS, JavaScript, jQuery, Bootstrap, Responsive Web Design, Node.js, Express.js, MySQL, MVC Pattern, Firebase, Docker <br><br>
 
-- ### **(11) Taipei-Day-Trip Website (*Nov to Dec 2022*)**
+- ### **(12) Taipei-Day-Trip Website (*Nov to Dec 2022*)**
 
   <p style="width: 800px; margin: auto;" align="center"><img src="/screenshots/screenshot_3.png" alt="preview"></p>
 
@@ -136,7 +145,7 @@
 
   - **Stacks Used:** HTML, CSS, Vanilla JavaScript, Responsive Web Design, Python, Flask, MySQL, Bcrypt, JWT, TapPay (Third-party Payment System), MVC Pattern, AWS (EC2 & S3), GitHub, Git, Google Analytics <br><br>
 
-- ### **(12) To-Do-List Website (*Aug 2022*)**
+- ### **(13) To-Do-List Website (*Aug 2022*)**
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_2.png" alt="preview"></p>
 
@@ -146,7 +155,7 @@
 
   - **Stacks Used:** HTML, CSS, Vanilla JavaScript <br><br>
 
-- ### **(13) Python Telegram Bot (*Sept 2018*)**
+- ### **(14) Python Telegram Bot (*Sept 2018*)**
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_1.png" alt="preview"></p>
 
