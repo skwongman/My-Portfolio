@@ -25,7 +25,7 @@
 
 ## Individual Side Projects:
 
-- ### **(1) Listify Mobile App (*Feb to March 2025*)**
+- ### **(1) Listify Mobile App (*Feb to Mar 2025*)**
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_8.png" alt="preview"></p>
 
