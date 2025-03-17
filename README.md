@@ -3,13 +3,13 @@
 ## Table of Contents
 
 - [Individual Side Projects](#individual-side-projects)
-  - [(1) Listify Mobile App (*Feb to Mar 2025*)](#1-listify-mobile-app-feb-to-march-2025)
+  - [(1) Listify Mobile App (React Native) (*Feb to Mar 2025*)](#1-listify-mobile-app-feb-to-march-2025)
   - [(2) My Portfolio Webite (*Apr 2024*)](#1-my-portfolio-website-apr-2024)
   - [(3) Job Application Histories System (*Mar 2024*)](#2-job-application-histories-system-mar-2024)
   - [(4) Drama Website (*Feb 2024*)](#3-drama-website-feb-2024)
   - [(5) Shopping Cart Calculator Website (*Jan 2024*)](#4-shopping-cart-calculator-website-jan-2024)
   - [(6) Message Board Website (*Sept to Dec 2023*)](#5-message-board-website-sept-to-dec-2023)
-  - [(7) Listify Mobile App (*Sept 2023*)](#6-listify-mobile-app-sept-2023)
+  - [(7) Listify Mobile App (Flutter) (*Sept 2023*)](#6-listify-mobile-app-sept-2023)
   - [(8) Listify Website (*Jul to Aug 2023*)](#7-listify-website-jul-to-aug-2023)
   - [(9) News Website (*May to Jun 2023*)](#8-news-website-may-to-jun-2023)
   - [(10) JProgrammer Website (*Jan to Mar 2023*)](#9-jprogrammer-website-jan-to-mar-2023)
@@ -25,13 +25,13 @@
 
 ## Individual Side Projects:
 
-- ### **(1) Listify Mobile App (*Feb to Mar 2025*)**
+- ### **(1) Listify Mobile App (React Native) (*Feb to Mar 2025*)**
 
-  <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_8.png" alt="preview"></p>
+  <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_15.png" alt="preview"></p>
 
   - **Theme:** A mobile app version of Listify website (Jul to Aug 2023), it is a to-do list app which can be launched in the mobile. Since it is connected to the same backend API of Listify Website, users can use either website or mobile app up to their own preference.
 
-  - **Stacks Used:** React Native, Java, Spring Boot, Maven, Hibernate, Lombok, JPA, MySQL, ORM, RESTful API, MVC Pattern (Models, Dtos, Mappers, Controllers, Repositories, Services, Implementations, Dependency Injection, Views), Global Exception Handler, Postman, Docker, Portainer, CICD (Jenkins), Git, GitHub, Nginx, Slack Chat Bot, Linux Cron Jobs <br><br>
+  - **Stacks Used:** React Native, Create-Expo-App, Expo, Java, Spring Boot, Maven, Hibernate, Lombok, JPA, MySQL, ORM, RESTful API, MVC Pattern (Models, Dtos, Mappers, Controllers, Repositories, Services, Implementations, Dependency Injection, Views), Global Exception Handler, Postman, Docker, Portainer, CICD (Jenkins), Git, GitHub, Nginx, Slack Chat Bot, Linux Cron Jobs <br><br>
 
 - ### **(2) My Portfolio Website (*Apr 2024*)**
 
@@ -83,7 +83,7 @@
 
   - **Stacks Used:** React.js, Next.js, TypeScript, Tailwind CSS, React Hooks (useState, useEffect, useContext), Redux, Props, Custom Hooks, Uploadthing (image uploader), Responsive Web Design, Prettier, EsLint, Node.js, Express.js, Nest.js, Sequelize, Pipes, Guards, RESTful API, MySQL, Swagger API, Bcrypt, JWT, MVC Pattern, Docker, CICD (Jenkins) <br><br>
 
-- ### **(7) Listify Mobile App (*Sept 2023*)**
+- ### **(7) Listify Mobile App (Flutter) (*Sept 2023*)**
 
   <p style="width: 800px; margin: auto;"><img src="/screenshots/screenshot_8.png" alt="preview"></p>
 
