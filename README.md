@@ -39,7 +39,7 @@
   
   - **Live Demo:** https://project.jprogrammer.online/
 
-  - **Theme:** This website aims to summarize all of my side projects in one go. It allows the web owner to easily create their portfolio. They can view, create, edit, and delete each portfolio with ease (only logged-in user can credit, edit and delete portfolio). Also, Nuxt Router Middleware was used to control the permission to each page. The frontend of the website primarily uses Vue.js with the Nuxt.js framework. In the backend, it primarily uses C# and ASP.NET Core Web API to create API routes.
+  - **Theme:** This website aims to summarize all of my side projects in one go. It allows the web owner to easily create their portfolio. They can view, create, edit, and delete each portfolio with ease (only logged-in user can create, edit and delete portfolio). Also, Nuxt Router Middleware was used to control the permission to each page. The frontend of the website primarily uses Vue.js with the Nuxt.js framework. In the backend, it primarily uses C# and ASP.NET Core Web API to create API routes.
 
   - **Stacks Used:** Nuxt.js, Vue.js, Composition API, Options API, Pinia (Global State Management), Nuxt Router Middleware (user authentication and permission), Tailwind CSS, Responsive Web Design, Routes, Routing, Client Side Rendering, Server Side Rendering, C#, ASP.NET Core Web API, .NET 8.0, .NET Entitiy Framework, LINQ, ORM, RESTful API, Swagger API, MVC Pattern (Models, DTOs, Mappers, Controllers, Interfaces, Repositories, Dependency Injection, Views), SQL Server, Code First Approach, Docker, Portainer, CICD (Jenkins), Git, GitHub, Nginx <br><br>
 
